@@ -1,38 +1,38 @@
 # app-dev
 My first repository
 
-# Avatar: The Last Airbender
+#  Star Wars: The Clone Wars
 
-> "Life happens wherever you are, whether you make it or not." — *Uncle Iroh*
-
----
-
-## Overview
-**Avatar: The Last Airbender** is an animated action-adventure series set in a world divided into four nations:
-* **Water Tribe**
-* **Earth Kingdom**
-* **Fire Nation**
-* **Air Nomads**
+> "In my experience, there's no such thing as luck." — *Obi-Wan Kenobi*
 
 ---
 
-## Key Characters
+##  Overview
+**Star Wars: The Clone Wars** is an animated sci-fi series set in a galaxy consumed by a galactic conflict between four major factions and forces:
+-  **The Galactic Republic**
+-  **The Separatist Alliance (CIS)**
+-  **The Jedi Order**
+-  **The Sith & Dark Side**
 
-| Character | Element | Key Trait |
+---
+
+##  Key Characters
+
+| Character | Affiliation | Key Trait |
 | :--- | :--- | :--- |
-| **Aang** | Air / Avatar | Compassionate & Playful |
-| **Katara** | Water | Resilient & Skilled |
-| **Zuko** | Fire | Complex Redemption Arc |
-| **Sokka** | Non-bender | Strategic & Humorous |
+| **Anakin Skywalker** | Jedi Order | Powerful & Emotionally Driven |
+| **Ahsoka Tano** | Jedi / Independent | Resilient & Growth-Oriented |
+| **Obi-Wan Kenobi** | Jedi High Council | Wise & Master Negotiator |
+| **Captain Rex** | Grand Army of the Republic | Loyal & Highly Tactical |
 
 ---
 
-## Favorite Seasons
-1. **Book Three: Fire**
-2. **Book Two: Earth**
-3. **Book One: Water**
+##  Favorite Seasons
+1. **Season 7: The Final Season**
+2. **Season 5: The Shadow Collective**
+3. **Season 4: The Umbara Arc**
 
 ---
 
-### 🔗 Useful Links
-* Learn more on [Wikipedia](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender)
+###  Useful Links
+- Learn more on [Wikipedia](https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars_(TV_series))
